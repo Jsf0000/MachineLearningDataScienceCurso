@@ -209,7 +209,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 284.0,False,True,True,RENT,0,2,True,False,EN,False,36.81,26,APPROVED,22.0
 1046.0,False,True,False,OWN,0,3,False,False,EN,False,138.5,26,APPROVED,27.0
 1560.0,False,True,True,OWN,5,4,True,False,EN,False,170.65,26,APPROVED,38.0
-297.0,False,True,True,RENT,0,6,True,False,EN,False,193.33,24,APPROVED,39.0
+297.0,False,True,True,RENT,0,6,True,False,EN,False,193.33,24,APPROVED,40.0
 290.0,False,True,True,RENT,0,6,True,False,EN,False,115.67,52,APPROVED,40.0
 70.0,False,True,True,RENT,3,4,True,False,EN,False,132.02,12,APPROVED,67.0
 552.0,False,True,True,RENT,0,2,True,False,EN,False,74.96,26,APPROVED,21.0
@@ -252,7 +252,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 55.0,False,True,True,RENT,0,2,True,False,EN,False,49.93,24,APPROVED,24.0
 393.0,True,True,True,OWN,0,2,True,False,EN,False,45.27,52,APPROVED,29.0
 824.0,False,True,False,RENT,0,5,True,False,EN,False,286.16,12,APPROVED,35.0
-1012.0,False,True,True,RENT,0,1,True,False,EN,False,151.77,26,APPROVED,44.0
+1012.0,False,True,True,RENT,0,1,True,False,EN,False,151.77,26,APPROVED,45.0
 65.0,False,True,True,RENT,0,6,True,False,EN,False,82.36,12,APPROVED,65.0
 651.0,False,False,True,OWN,0,6,True,False,EN,False,217.24,26,APPROVED,49.0
 394.0,False,True,False,RENT,0,6,True,False,EN,False,172.19,24,APPROVED,46.0
@@ -306,8 +306,8 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 167.0,False,True,False,RENT,0,1,True,False,EN,False,19.6,26,APPROVED,25.0
 602.0,False,True,True,RENT,0,1,True,False,EN,False,91.8,26,APPROVED,22.0
 472.0,False,True,True,OWN,0,3,True,False,EN,False,80.22,26,APPROVED,47.0
-107.0,False,True,True,RENT,0,2,True,False,EN,False,50.26,52,APPROVED,24.0
-705.0,False,True,True,RENT,8,3,True,False,EN,False,341.79,12,APPROVED,46.0
+107.0,False,True,True,RENT,0,2,True,False,EN,False,50.26,52,APPROVED,25.0
+705.0,False,True,True,RENT,8,3,True,False,EN,False,341.79,12,APPROVED,47.0
 232.0,False,True,False,OWN,0,1,True,False,EN,False,201.84,12,APPROVED,35.0
 582.0,False,True,False,RENT,6,6,True,False,EN,False,79.99,26,APPROVED,29.0
 177.0,False,True,True,RENT,1,0,True,False,EN,False,23.75,52,APPROVED,31.0
@@ -596,7 +596,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 779.0,False,True,True,OWN,0,6,False,False,EN,False,58.55,52,APPROVED,25.0
 721.0,False,True,True,RENT,3,3,True,False,EN,False,238.59,12,APPROVED,36.0
 1035.0,False,True,True,OWN,0,3,True,False,EN,False,152.46,26,APPROVED,29.0
-215.0,False,True,True,RENT,0,1,True,False,EN,False,106.0,24,APPROVED,35.0
+215.0,False,True,True,RENT,0,1,True,False,EN,False,106.0,24,APPROVED,36.0
 387.0,False,True,True,RENT,0,6,True,False,EN,False,53.4,24,APPROVED,39.0
 605.0,False,True,True,OWN,0,6,True,False,EN,False,103.75,26,APPROVED,66.0
 48.0,False,True,False,RENT,0,3,True,False,EN,False,18.17,52,APPROVED,32.0
@@ -653,7 +653,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 274.0,False,True,True,RENT,0,6,True,False,EN,False,89.55,12,APPROVED,72.0
 231.0,False,True,True,RENT,0,2,True,False,EN,False,82.42,24,APPROVED,28.0
 717.0,False,True,True,RENT,0,1,True,False,EN,False,130.31,26,APPROVED,38.0
-64.0,False,True,True,RENT,0,5,True,False,EN,False,66.98,26,APPROVED,25.0
+64.0,False,True,True,RENT,0,5,True,False,EN,False,66.98,26,APPROVED,26.0
 358.0,False,True,True,OWN,0,6,True,False,EN,False,29.54,52,APPROVED,88.0
 883.0,False,True,True,OWN,0,3,True,False,EN,False,181.84,26,APPROVED,50.0
 398.0,False,True,True,OWN,1,6,False,False,EN,False,89.38,24,APPROVED,25.0
@@ -686,7 +686,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 1282.0,False,True,True,OWN,3,3,True,False,ES,False,523.84,26,APPROVED,35.0
 325.0,False,True,True,OWN,0,3,True,False,EN,False,94.22,26,APPROVED,54.0
 463.0,False,True,True,RENT,1,0,True,False,EN,False,70.37,26,APPROVED,33.0
-686.0,False,True,False,RENT,0,1,True,False,EN,False,103.91,24,APPROVED,27.0
+686.0,False,True,False,RENT,0,1,True,False,EN,False,103.91,24,APPROVED,28.0
 439.0,False,True,True,RENT,0,3,True,False,EN,False,64.22,52,APPROVED,38.0
 523.0,False,True,True,RENT,10,0,True,False,EN,False,71.58,26,APPROVED,38.0
 303.0,False,True,True,RENT,0,6,True,False,EN,False,60.5,52,APPROVED,41.0
@@ -721,7 +721,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 1394.0,False,True,False,RENT,0,6,True,False,EN,False,408.66,26,APPROVED,28.0
 650.0,False,True,True,RENT,0,3,True,False,EN,False,99.36,26,APPROVED,20.0
 376.0,False,True,True,RENT,7,0,False,False,EN,False,92.33,26,APPROVED,24.0
-1182.0,False,True,False,OWN,0,6,True,False,EN,False,186.88,26,APPROVED,47.0
+1182.0,False,True,False,OWN,0,6,True,False,EN,False,186.88,26,APPROVED,48.0
 351.0,False,True,False,RENT,1,0,True,False,EN,False,139.13,52,APPROVED,33.0
 353.0,False,True,True,RENT,0,6,True,False,EN,False,56.48,52,APPROVED,30.0
 679.0,False,True,True,RENT,0,2,True,False,EN,False,221.29,12,DENIED,45.0
@@ -785,7 +785,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 605.0,False,True,False,RENT,0,3,True,False,EN,False,58.02,52,APPROVED,29.0
 480.0,False,True,True,OWN,8,6,True,False,EN,False,230.83,24,APPROVED,57.0
 217.0,False,True,True,OWN,1,6,False,False,EN,False,23.73,26,APPROVED,29.0
-517.0,False,True,False,RENT,0,1,True,False,EN,False,79.39,26,APPROVED,27.0
+517.0,False,True,False,RENT,0,1,True,False,EN,False,79.39,26,APPROVED,28.0
 614.0,False,True,True,OWN,7,6,True,False,EN,False,143.64,52,APPROVED,42.0
 151.0,False,True,True,RENT,0,6,True,False,EN,False,24.09,52,APPROVED,43.0
 368.0,False,True,False,RENT,6,0,True,False,EN,False,54.95,26,APPROVED,30.0
@@ -832,7 +832,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 262.0,False,True,True,RENT,0,6,False,False,EN,False,40.22,52,APPROVED,23.0
 520.0,False,True,False,RENT,8,10,False,False,EN,False,79.09,26,APPROVED,34.0
 1060.0,False,True,True,RENT,0,2,True,True,ES,False,68.88,52,APPROVED,22.0
-397.0,False,True,True,OWN,2,4,True,False,EN,False,90.58,52,APPROVED,32.0
+397.0,False,True,True,OWN,2,4,True,False,EN,False,90.58,52,APPROVED,33.0
 1011.0,False,True,False,OWN,11,6,True,False,EN,False,331.93,12,APPROVED,48.0
 385.0,False,True,True,RENT,0,3,False,False,EN,False,28.39,52,APPROVED,28.0
 583.0,False,True,False,RENT,0,1,True,False,EN,False,298.51,26,APPROVED,21.0
@@ -979,7 +979,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 429.0,False,True,True,RENT,0,1,True,False,EN,False,57.16,26,APPROVED,31.0
 724.0,False,True,False,RENT,11,1,True,False,EN,False,114.72,52,APPROVED,37.0
 89.0,False,True,True,RENT,0,4,True,False,EN,False,15.08,26,APPROVED,49.0
-408.0,False,True,True,RENT,0,2,False,False,EN,False,58.73,26,APPROVED,29.0
+408.0,False,True,True,RENT,0,2,False,False,EN,False,58.73,26,APPROVED,30.0
 383.0,False,True,True,RENT,0,2,True,False,EN,False,59.73,24,APPROVED,39.0
 163.0,False,True,False,RENT,1,1,True,False,EN,False,34.31,26,APPROVED,58.0
 169.0,False,True,True,RENT,0,1,True,False,EN,False,32.47,52,APPROVED,35.0
@@ -1120,7 +1120,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 288.0,False,True,False,OWN,1,1,False,False,EN,False,73.34,26,APPROVED,39.0
 27.0,False,True,False,RENT,0,2,True,False,EN,False,132.89,12,APPROVED,76.0
 720.0,False,True,True,RENT,7,3,True,False,EN,False,209.09,12,APPROVED,46.0
-538.0,True,True,False,RENT,3,2,True,False,EN,False,86.45,52,APPROVED,20.0
+538.0,True,True,False,RENT,3,2,True,False,EN,False,86.45,52,APPROVED,21.0
 800.0,False,True,True,RENT,0,6,True,False,EN,False,102.0,26,APPROVED,28.0
 39.0,False,True,True,OWN,2,4,False,False,ES,False,81.1,52,APPROVED,30.0
 314.0,False,True,True,RENT,0,6,True,False,EN,False,58.84,26,APPROVED,27.0
@@ -1195,7 +1195,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 394.0,False,True,True,OWN,0,6,False,False,EN,False,90.69,26,APPROVED,38.0
 1059.0,False,True,False,RENT,0,2,False,False,EN,False,96.13,26,APPROVED,34.0
 578.0,False,True,True,RENT,3,1,True,False,EN,False,91.03,26,APPROVED,28.0
-176.0,False,True,True,RENT,0,5,False,False,EN,False,125.77,24,APPROVED,44.0
+176.0,False,True,True,RENT,0,5,False,False,EN,False,125.77,24,APPROVED,45.0
 574.0,False,True,True,RENT,4,2,True,False,EN,False,85.54,52,APPROVED,34.0
 211.0,False,True,True,RENT,10,6,True,False,EN,False,100.65,26,APPROVED,57.0
 260.0,False,True,False,RENT,0,5,True,False,EN,False,23.6,26,APPROVED,33.0
@@ -1230,7 +1230,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 285.0,False,True,True,RENT,11,0,False,False,EN,False,83.62,26,APPROVED,37.0
 531.0,False,True,True,RENT,9,0,True,False,EN,False,90.43,26,APPROVED,25.0
 860.0,False,True,False,RENT,1,0,True,False,EN,False,168.28,26,APPROVED,25.0
-442.0,False,False,True,RENT,0,1,True,False,EN,False,220.93,52,APPROVED,39.0
+442.0,False,False,True,RENT,0,1,True,False,EN,False,220.93,52,APPROVED,40.0
 341.0,False,False,True,RENT,6,0,False,False,EN,False,42.26,26,APPROVED,20.0
 414.0,False,True,True,RENT,9,0,True,False,EN,False,68.2,26,APPROVED,38.0
 1410.0,False,True,True,RENT,6,0,True,False,EN,False,234.17,24,APPROVED,54.0
@@ -1309,7 +1309,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 432.0,False,True,True,RENT,8,2,True,True,EN,False,67.71,26,APPROVED,33.0
 104.0,False,True,False,RENT,0,2,True,False,EN,False,51.9,24,APPROVED,44.0
 360.0,False,True,True,OWN,1,6,True,False,EN,False,52.76,26,APPROVED,25.0
-1082.0,False,True,True,RENT,11,6,True,False,EN,False,160.49,26,APPROVED,41.0
+1082.0,False,True,True,RENT,11,6,True,False,EN,False,160.49,26,APPROVED,42.0
 782.0,False,True,True,RENT,11,6,False,False,ES,False,258.79,12,APPROVED,46.0
 256.0,False,True,True,RENT,0,1,True,False,EN,False,92.46,12,APPROVED,76.0
 619.0,False,True,False,RENT,5,2,True,False,EN,False,102.21,24,APPROVED,27.0
@@ -1605,7 +1605,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 449.0,False,True,False,RENT,2,0,True,False,EN,False,65.47,24,APPROVED,28.0
 726.0,False,True,True,OWN,0,5,False,False,EN,False,55.96,52,APPROVED,55.0
 93.0,False,True,True,OWN,0,4,True,False,EN,False,93.85,52,APPROVED,27.0
-364.0,False,True,False,RENT,3,2,True,False,EN,False,32.54,52,APPROVED,32.0
+364.0,False,True,False,RENT,3,2,True,False,EN,False,32.54,52,APPROVED,33.0
 594.0,False,True,False,RENT,9,2,False,False,EN,False,39.58,52,APPROVED,34.0
 403.0,True,True,True,OWN,0,6,True,False,EN,False,52.92,26,APPROVED,48.0
 720.0,False,True,True,RENT,0,1,True,False,EN,False,105.05,26,APPROVED,21.0
@@ -1669,7 +1669,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 135.0,False,True,False,RENT,2,0,True,False,EN,False,76.06,26,APPROVED,25.0
 259.0,False,True,True,RENT,0,1,False,False,EN,False,201.85,12,APPROVED,39.0
 1274.0,False,True,True,OWN,0,6,False,False,EN,False,210.68,26,APPROVED,23.0
-958.0,False,True,False,RENT,0,6,True,False,EN,False,131.95,52,APPROVED,20.0
+958.0,False,True,False,RENT,0,6,True,False,EN,False,131.95,52,APPROVED,21.0
 365.0,False,True,False,RENT,0,1,True,False,EN,False,59.73,52,APPROVED,26.0
 262.0,False,False,True,OWN,0,1,False,False,EN,False,64.03,26,APPROVED,37.0
 96.0,False,True,True,RENT,10,6,True,False,EN,False,40.2,26,APPROVED,49.0
@@ -1751,11 +1751,11 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 83.0,False,True,True,OWN,0,4,True,False,EN,False,62.36,24,APPROVED,41.0
 141.0,False,True,False,RENT,0,6,True,False,EN,False,40.09,26,APPROVED,37.0
 266.0,False,True,False,RENT,2,0,True,False,EN,False,84.36,26,APPROVED,30.0
-24.0,False,True,False,OWN,0,1,True,False,ES,False,28.24,52,APPROVED,22.0
+24.0,False,True,False,OWN,0,1,True,False,ES,False,28.24,52,APPROVED,23.0
 1165.0,False,True,True,RENT,0,6,False,False,ES,False,343.69,24,APPROVED,60.0
 62.0,False,True,True,RENT,0,3,False,False,EN,False,41.75,52,APPROVED,35.0
 597.0,False,True,True,RENT,0,2,True,False,EN,False,42.29,52,APPROVED,26.0
-695.0,False,True,True,OWN,0,6,False,False,EN,False,49.37,52,APPROVED,34.0
+695.0,False,True,True,OWN,0,6,False,False,EN,False,49.37,52,APPROVED,35.0
 925.0,False,False,True,OWN,0,6,True,False,EN,False,102.53,52,APPROVED,37.0
 504.0,False,True,True,RENT,0,6,True,False,EN,False,169.08,26,APPROVED,71.0
 817.0,False,True,True,RENT,0,1,False,False,EN,False,272.76,52,APPROVED,46.0
@@ -1773,10 +1773,10 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 444.0,False,True,False,RENT,0,3,True,False,ES,False,92.86,24,APPROVED,48.0
 516.0,False,True,True,RENT,2,3,True,False,EN,False,124.05,12,APPROVED,35.0
 491.0,False,True,False,RENT,0,5,True,False,ES,False,51.59,26,APPROVED,20.0
-892.0,False,True,True,RENT,2,1,True,False,ES,False,127.53,26,APPROVED,32.0
+892.0,False,True,True,RENT,2,1,True,False,ES,False,127.53,26,APPROVED,33.0
 223.0,False,True,False,OWN,0,6,True,False,EN,False,31.51,26,APPROVED,48.0
 300.0,False,True,True,RENT,6,0,True,False,EN,False,46.51,26,APPROVED,29.0
-40.0,False,True,True,RENT,6,0,True,False,EN,False,31.24,26,APPROVED,26.0
+40.0,False,True,True,RENT,6,0,True,False,EN,False,31.24,26,APPROVED,27.0
 919.0,False,True,False,RENT,3,1,False,False,ES,False,70.88,52,APPROVED,29.0
 186.0,False,True,True,RENT,0,2,False,False,ES,False,151.55,26,APPROVED,42.0
 668.0,False,True,True,RENT,6,3,True,False,EN,False,47.18,52,APPROVED,43.0
@@ -2247,7 +2247,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 157.0,False,True,True,RENT,10,3,True,False,EN,False,73.28,26,APPROVED,32.0
 540.0,False,True,False,RENT,0,6,False,False,EN,False,63.31,52,APPROVED,31.0
 695.0,False,True,False,RENT,0,5,True,False,EN,False,220.27,24,APPROVED,29.0
-457.0,False,True,True,OWN,11,6,True,False,EN,False,531.57,12,APPROVED,35.0
+457.0,False,True,True,OWN,11,6,True,False,EN,False,531.57,12,APPROVED,36.0
 895.0,False,True,True,RENT,7,1,True,False,EN,False,125.49,26,APPROVED,28.0
 971.0,False,True,False,RENT,0,1,True,False,EN,False,153.52,24,APPROVED,36.0
 889.0,False,True,False,RENT,0,3,False,False,EN,False,314.33,12,APPROVED,27.0
@@ -2375,7 +2375,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 414.0,False,True,True,RENT,1,0,False,False,EN,False,121.62,12,APPROVED,40.0
 1601.0,False,True,True,RENT,0,1,True,False,EN,False,113.83,52,APPROVED,38.0
 734.0,False,True,True,RENT,0,3,True,False,EN,False,105.68,26,APPROVED,43.0
-345.0,False,True,False,RENT,0,5,True,False,EN,False,170.94,12,APPROVED,68.0
+345.0,False,True,False,RENT,0,5,True,False,EN,False,170.94,12,APPROVED,69.0
 377.0,False,True,True,OWN,0,6,True,False,EN,False,50.83,26,APPROVED,32.0
 67.0,False,True,False,RENT,6,3,True,False,EN,False,16.25,26,APPROVED,44.0
 273.0,False,True,True,RENT,0,3,False,False,EN,False,51.36,26,APPROVED,42.0
@@ -2504,7 +2504,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 148.0,False,True,False,OWN,0,6,True,False,EN,False,13.75,52,APPROVED,36.0
 393.0,False,True,False,OWN,0,6,True,False,EN,False,157.34,52,APPROVED,66.0
 449.0,False,True,False,RENT,0,3,True,False,ES,False,149.6,12,APPROVED,33.0
-34.0,False,True,True,RENT,0,3,False,False,EN,False,123.38,26,APPROVED,31.0
+34.0,False,True,True,RENT,0,3,False,False,EN,False,123.38,26,APPROVED,32.0
 91.0,False,True,False,RENT,0,4,True,False,EN,False,19.76,52,APPROVED,38.0
 256.0,False,True,True,OWN,0,3,True,False,EN,False,31.79,26,APPROVED,30.0
 86.0,False,True,True,RENT,4,5,True,False,EN,False,30.25,26,APPROVED,45.0
@@ -2713,7 +2713,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 496.0,False,True,False,RENT,0,1,True,False,EN,False,76.37,24,APPROVED,27.0
 1167.0,False,True,True,OWN,0,4,False,False,EN,False,328.96,12,APPROVED,47.0
 990.0,False,True,True,RENT,0,6,True,False,EN,False,200.33,24,APPROVED,32.0
-387.0,False,False,False,OWN,0,3,False,False,EN,False,31.53,52,APPROVED,24.0
+387.0,False,False,False,OWN,0,3,False,False,EN,False,31.53,52,APPROVED,25.0
 892.0,False,False,True,RENT,3,1,True,False,EN,False,118.08,26,DENIED,38.0
 526.0,False,True,False,RENT,10,0,False,False,EN,False,211.63,52,APPROVED,22.0
 359.0,False,True,True,RENT,0,4,True,False,EN,False,70.63,12,APPROVED,48.0
@@ -2735,7 +2735,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 732.0,False,True,False,RENT,0,6,True,False,EN,False,251.33,26,APPROVED,40.0
 635.0,False,False,False,RENT,1,0,True,False,EN,False,54.0,52,APPROVED,22.0
 465.0,False,True,False,RENT,0,6,True,False,EN,False,56.7,26,APPROVED,25.0
-433.0,False,True,True,OWN,0,48,True,False,EN,False,46.16,52,APPROVED,51.0
+433.0,False,True,True,OWN,0,48,True,False,EN,False,46.16,52,APPROVED,52.0
 334.0,False,True,True,RENT,3,1,True,False,EN,False,45.91,24,APPROVED,74.0
 973.0,False,True,True,RENT,0,6,True,False,EN,False,311.46,52,APPROVED,32.0
 883.0,False,True,True,OWN,1,3,True,False,EN,False,132.88,24,APPROVED,36.0
@@ -2898,7 +2898,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 543.0,False,True,False,RENT,0,2,False,False,EN,False,64.72,26,APPROVED,47.0
 591.0,False,True,True,RENT,9,0,True,False,EN,False,107.65,26,APPROVED,46.0
 891.0,False,True,False,OWN,2,7,True,False,EN,False,97.85,52,APPROVED,24.0
-385.0,False,True,True,OWN,0,6,True,False,EN,False,101.29,26,APPROVED,58.0
+385.0,False,True,True,OWN,0,6,True,False,EN,False,101.29,26,APPROVED,59.0
 766.0,False,True,True,RENT,8,8,True,False,EN,False,93.08,26,APPROVED,23.0
 384.0,False,True,False,RENT,0,2,False,False,EN,False,78.34,24,APPROVED_WITH_CONDITIONS,45.0
 624.0,False,True,False,OWN,0,6,True,False,EN,False,102.8,26,APPROVED,28.0
@@ -2914,7 +2914,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 156.0,False,True,False,RENT,0,6,True,False,EN,False,78.0,26,APPROVED,43.0
 918.0,False,True,False,RENT,0,5,False,False,EN,False,60.42,52,APPROVED,27.0
 327.0,False,True,False,RENT,0,6,True,False,ES,False,40.36,52,APPROVED,41.0
-1061.0,False,False,False,RENT,5,3,True,False,EN,False,70.53,52,APPROVED,41.0
+1061.0,False,False,False,RENT,5,3,True,False,EN,False,70.53,52,APPROVED,42.0
 753.0,False,True,True,RENT,6,0,True,False,EN,False,151.55,26,APPROVED,51.0
 559.0,False,True,True,RENT,5,4,True,False,EN,False,82.7,26,APPROVED,26.0
 845.0,False,True,True,RENT,0,3,True,False,EN,False,111.95,26,APPROVED,38.0
@@ -3081,7 +3081,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 366.0,False,True,True,OWN,0,6,True,False,EN,False,27.3,24,APPROVED,52.0
 1461.0,False,True,False,OWN,11,6,True,False,EN,False,211.15,26,APPROVED,71.0
 413.0,False,True,True,OWN,0,6,True,False,EN,False,34.9,52,APPROVED,44.0
-505.0,False,True,True,RENT,5,3,True,False,EN,False,97.6,24,APPROVED,26.0
+505.0,False,True,True,RENT,5,3,True,False,EN,False,97.6,24,APPROVED,27.0
 194.0,False,True,False,RENT,1,0,True,False,EN,False,33.64,24,APPROVED,38.0
 569.0,False,True,True,OWN,0,3,True,False,EN,False,75.64,26,APPROVED,35.0
 1034.0,False,True,True,RENT,4,2,True,False,EN,False,187.92,26,APPROVED,20.0
@@ -3230,14 +3230,14 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 311.0,False,True,True,OWN,0,6,False,False,EN,False,40.72,24,APPROVED,45.0
 570.0,False,True,False,OWN,8,6,True,False,EN,False,42.39,52,APPROVED,48.0
 77.0,False,True,False,RENT,1,0,True,False,EN,False,11.01,26,APPROVED,32.0
-280.0,False,True,False,RENT,6,1,True,False,EN,False,36.58,24,APPROVED,24.0
+280.0,False,True,False,RENT,6,1,True,False,EN,False,36.58,24,APPROVED,25.0
 75.0,False,True,True,OWN,0,6,True,False,EN,False,12.74,52,APPROVED,28.0
 674.0,False,True,True,RENT,0,4,True,False,EN,False,104.02,26,APPROVED,27.0
 452.0,False,True,False,OWN,11,6,True,False,EN,False,31.48,52,APPROVED,29.0
 958.0,False,True,False,RENT,0,6,True,False,EN,False,123.41,26,APPROVED,30.0
 498.0,False,False,True,RENT,0,4,True,False,EN,False,37.5,52,APPROVED,40.0
 363.0,False,True,True,OWN,0,3,True,False,EN,False,48.97,26,APPROVED,44.0
-406.0,False,True,False,RENT,0,3,True,False,EN,False,60.07,26,APPROVED,30.0
+406.0,False,True,False,RENT,0,3,True,False,EN,False,60.07,26,APPROVED,31.0
 407.0,False,True,True,RENT,11,6,True,False,EN,False,50.13,26,APPROVED,25.0
 615.0,False,True,False,RENT,4,0,True,False,EN,False,203.03,26,APPROVED,26.0
 781.0,False,False,False,RENT,0,6,True,False,EN,False,107.64,26,APPROVED,46.0
@@ -3306,7 +3306,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 602.0,False,False,False,OWN,0,6,True,False,EN,False,80.57,52,APPROVED,49.0
 565.0,False,False,False,RENT,0,1,True,False,EN,False,155.34,12,APPROVED,68.0
 654.0,False,True,True,RENT,0,5,True,False,EN,False,236.38,52,APPROVED,41.0
-1306.0,False,False,False,OWN,0,6,True,False,EN,False,363.04,24,APPROVED,70.0
+1306.0,False,False,False,OWN,0,6,True,False,EN,False,363.04,24,APPROVED,71.0
 680.0,False,True,True,RENT,0,4,True,False,EN,False,112.37,24,APPROVED,31.0
 662.0,False,True,False,OWN,1,6,True,False,EN,False,220.52,12,APPROVED,48.0
 917.0,False,True,False,RENT,0,3,True,False,EN,False,250.23,52,APPROVED,54.0
@@ -3402,7 +3402,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 652.0,False,True,True,OWN,0,6,True,False,EN,False,91.01,26,APPROVED,55.0
 150.0,False,True,True,OWN,0,6,True,False,EN,False,26.55,52,APPROVED,55.0
 803.0,False,True,False,OWN,2,2,True,False,EN,False,140.39,26,APPROVED,25.0
-719.0,False,True,True,RENT,1,6,True,False,EN,False,103.2,52,APPROVED,42.0
+719.0,False,True,True,RENT,1,6,True,False,EN,False,103.2,52,APPROVED,43.0
 489.0,False,True,True,RENT,0,3,True,False,EN,False,32.65,52,APPROVED,25.0
 687.0,False,True,True,RENT,2,3,False,False,EN,False,364.11,52,APPROVED,23.0
 659.0,False,True,False,OWN,0,4,True,False,EN,False,102.24,26,APPROVED,37.0
@@ -3417,7 +3417,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 113.0,False,True,True,RENT,0,1,False,False,EN,False,28.23,26,APPROVED,26.0
 600.0,False,True,False,RENT,6,0,True,False,EN,False,37.63,52,APPROVED,31.0
 456.0,False,True,True,RENT,0,1,True,False,EN,False,157.67,12,APPROVED,33.0
-608.0,False,True,True,RENT,0,1,True,False,EN,False,42.03,52,APPROVED,24.0
+608.0,False,True,True,RENT,0,1,True,False,EN,False,42.03,52,APPROVED,25.0
 48.0,False,True,False,RENT,4,4,True,False,EN,False,75.38,26,APPROVED,28.0
 178.0,False,True,True,RENT,6,0,True,False,EN,False,24.6,26,APPROVED,28.0
 158.0,False,True,False,RENT,0,3,True,False,EN,False,21.22,26,APPROVED,41.0
@@ -3596,7 +3596,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 357.0,False,True,True,RENT,0,2,True,False,EN,False,63.15,26,APPROVED,36.0
 709.0,False,True,True,OWN,0,1,True,False,EN,False,42.28,52,APPROVED,34.0
 938.0,False,True,True,OWN,0,6,False,False,EN,False,79.85,52,APPROVED,30.0
-1108.0,False,True,True,OWN,0,6,True,False,EN,False,167.49,26,APPROVED,30.0
+1108.0,False,True,True,OWN,0,6,True,False,EN,False,167.49,26,APPROVED,31.0
 360.0,False,True,True,RENT,2,0,False,False,EN,False,49.33,26,APPROVED,25.0
 348.0,False,False,True,OWN,0,6,True,False,EN,False,107.68,12,APPROVED,43.0
 719.0,False,False,False,RENT,8,1,True,False,EN,False,44.58,52,APPROVED,32.0
@@ -3611,9 +3611,9 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 891.0,False,True,True,OWN,0,4,False,False,EN,False,50.38,52,APPROVED,21.0
 529.0,False,True,False,RENT,0,3,True,False,EN,False,69.45,26,APPROVED,28.0
 209.0,False,True,True,RENT,0,1,True,False,EN,False,29.84,26,APPROVED,34.0
-436.0,False,True,False,OWN,5,6,True,False,EN,False,78.9,52,APPROVED,19.0
+436.0,False,True,False,OWN,5,6,True,False,EN,False,78.9,52,APPROVED,20.0
 482.0,False,True,False,RENT,8,4,True,False,EN,False,31.96,52,APPROVED,43.0
-729.0,False,True,False,OWN,11,6,True,False,EN,False,70.26,52,APPROVED,58.0
+729.0,False,True,False,OWN,11,6,True,False,EN,False,70.26,52,APPROVED,59.0
 542.0,False,True,False,RENT,0,2,True,False,EN,False,116.05,24,APPROVED,38.0
 334.0,False,True,True,OWN,0,3,True,False,EN,False,49.16,24,APPROVED,41.0
 55.0,False,True,True,RENT,0,6,False,False,EN,False,57.61,24,APPROVED,30.0
@@ -3755,7 +3755,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 1308.0,False,True,False,RENT,1,3,True,False,EN,False,65.07,52,APPROVED,42.0
 304.0,False,True,False,RENT,3,1,False,False,ES,False,45.99,26,APPROVED,42.0
 899.0,False,True,False,RENT,1,0,True,False,EN,False,325.24,52,APPROVED,80.0
-657.0,False,True,False,OWN,0,6,True,False,EN,False,76.57,52,APPROVED,23.0
+657.0,False,True,False,OWN,0,6,True,False,EN,False,76.57,52,APPROVED,24.0
 419.0,False,True,True,RENT,0,4,True,False,EN,False,107.83,26,APPROVED,39.0
 944.0,False,True,False,RENT,6,2,True,False,EN,False,282.29,12,APPROVED,42.0
 470.0,False,True,False,RENT,6,3,True,False,EN,False,35.3,52,APPROVED,38.0
@@ -3801,7 +3801,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 971.0,False,True,False,RENT,3,0,True,False,EN,False,65.08,52,APPROVED,23.0
 238.0,False,True,False,RENT,0,4,False,False,EN,False,35.56,26,APPROVED,48.0
 767.0,False,True,True,RENT,3,5,True,False,EN,False,109.49,26,APPROVED,56.0
-252.0,False,False,False,RENT,0,2,True,False,EN,False,46.55,24,APPROVED,49.0
+252.0,False,False,False,RENT,0,2,True,False,EN,False,46.55,24,APPROVED,50.0
 213.0,False,True,True,RENT,4,5,True,False,EN,False,39.36,26,APPROVED,30.0
 685.0,False,True,False,OWN,8,6,True,False,EN,False,93.08,26,APPROVED,33.0
 291.0,False,True,True,RENT,0,1,True,False,EN,False,48.59,26,APPROVED,25.0
@@ -3915,7 +3915,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 57.0,False,True,True,OWN,7,4,True,False,EN,False,6.62,52,APPROVED,23.0
 247.0,False,True,False,RENT,5,5,True,False,EN,False,32.25,26,APPROVED,29.0
 825.0,False,True,True,RENT,7,0,True,False,EN,False,247.34,52,APPROVED,27.0
-1510.0,False,True,False,OWN,7,6,True,False,EN,False,128.24,26,APPROVED,58.0
+1510.0,False,True,False,OWN,7,6,True,False,EN,False,128.24,26,APPROVED,59.0
 791.0,False,True,True,RENT,1,6,True,False,EN,False,51.12,52,APPROVED,27.0
 1307.0,False,False,False,RENT,1,0,True,False,EN,False,186.73,24,APPROVED,49.0
 536.0,False,True,True,RENT,0,4,True,False,EN,False,162.33,26,APPROVED,27.0
@@ -4038,7 +4038,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 759.0,False,True,True,RENT,0,4,True,False,ES,False,46.54,52,APPROVED,29.0
 663.0,False,True,False,OWN,1,0,False,False,EN,False,94.71,26,APPROVED,46.0
 458.0,False,False,False,OWN,0,6,True,False,EN,False,81.74,26,APPROVED,32.0
-1212.0,False,True,True,RENT,2,12,True,False,EN,False,155.08,26,APPROVED,40.0
+1212.0,False,True,True,RENT,2,12,True,False,EN,False,155.08,26,APPROVED,41.0
 1305.0,False,False,False,RENT,8,1,True,False,EN,False,80.84,52,APPROVED,46.0
 679.0,False,True,True,RENT,1,2,True,False,EN,False,218.3,26,APPROVED,21.0
 751.0,False,True,True,OWN,0,3,True,False,EN,False,51.66,52,APPROVED,29.0
@@ -4243,7 +4243,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 52.0,False,True,True,OWN,0,6,True,False,EN,False,41.55,26,APPROVED,50.0
 805.0,False,True,False,OWN,0,4,False,False,EN,False,127.35,26,APPROVED,43.0
 1001.0,False,True,True,OWN,0,6,True,False,EN,False,105.57,24,APPROVED,30.0
-161.0,False,True,True,RENT,4,3,True,False,EN,False,148.69,26,APPROVED,33.0
+161.0,False,True,True,RENT,4,3,True,False,EN,False,148.69,26,APPROVED,34.0
 192.0,False,True,False,RENT,1,0,True,False,EN,False,31.13,24,APPROVED,42.0
 632.0,False,True,True,RENT,0,6,True,False,EN,False,94.88,26,APPROVED,41.0
 701.0,False,True,False,OWN,10,6,True,False,EN,False,85.66,26,DENIED,29.0
@@ -4258,7 +4258,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 1268.0,False,True,True,OWN,11,6,False,False,EN,False,420.75,12,APPROVED,54.0
 328.0,False,True,False,RENT,0,2,True,False,EN,False,47.28,26,APPROVED,30.0
 326.0,False,True,True,OWN,0,6,True,False,EN,False,49.47,26,APPROVED,23.0
-289.0,False,True,False,RENT,0,3,True,False,ES,False,35.96,26,APPROVED,31.0
+289.0,False,True,False,RENT,0,3,True,False,ES,False,35.96,26,APPROVED,32.0
 661.0,False,True,True,RENT,0,2,True,False,EN,False,42.43,52,APPROVED,31.0
 250.0,False,True,False,RENT,0,26,True,False,EN,False,37.62,52,APPROVED,50.0
 54.0,False,True,True,RENT,4,3,True,False,EN,False,46.24,52,APPROVED,41.0
@@ -4275,7 +4275,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 293.0,False,True,False,RENT,6,0,False,False,EN,False,63.36,26,APPROVED,36.0
 706.0,False,True,False,RENT,2,0,False,False,EN,False,117.33,52,APPROVED,41.0
 728.0,False,True,True,RENT,0,6,False,False,EN,False,109.39,24,APPROVED,47.0
-883.0,False,True,False,OWN,0,5,True,False,EN,False,137.86,26,APPROVED,37.0
+883.0,False,True,False,OWN,0,5,True,False,EN,False,137.86,26,APPROVED,38.0
 978.0,False,True,True,RENT,3,2,False,False,EN,False,290.74,12,APPROVED,23.0
 741.0,False,False,True,OWN,8,5,False,False,EN,False,91.6,26,APPROVED,65.0
 535.0,False,True,True,RENT,2,0,True,False,EN,False,37.31,52,APPROVED,60.0
@@ -4319,7 +4319,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 1038.0,False,True,True,RENT,7,6,True,False,EN,False,131.04,12,APPROVED,34.0
 681.0,False,True,True,RENT,6,0,True,False,EN,False,204.17,52,APPROVED,27.0
 1106.0,True,True,False,RENT,6,1,True,False,EN,False,152.25,26,APPROVED,34.0
-748.0,False,True,False,RENT,7,5,False,False,EN,False,133.65,52,APPROVED,32.0
+748.0,False,True,False,RENT,7,5,False,False,EN,False,133.65,52,APPROVED,33.0
 536.0,False,True,True,OWN,8,0,True,False,EN,False,66.83,26,APPROVED,22.0
 584.0,False,True,False,RENT,2,2,True,False,EN,False,96.25,24,APPROVED_WITH_CONDITIONS,27.0
 476.0,False,True,True,RENT,3,3,False,False,ES,False,58.97,52,APPROVED,40.0
@@ -4380,7 +4380,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 396.0,False,True,False,RENT,1,2,True,False,EN,False,49.9,26,APPROVED,27.0
 720.0,False,True,True,RENT,0,6,True,False,EN,False,47.76,52,APPROVED,40.0
 498.0,False,True,False,RENT,0,2,True,False,EN,False,160.94,26,APPROVED,30.0
-265.0,False,True,False,RENT,0,6,True,False,EN,False,25.97,52,APPROVED,26.0
+265.0,False,True,False,RENT,0,6,True,False,EN,False,25.97,52,APPROVED,27.0
 1494.0,False,True,True,OWN,2,2,True,False,EN,False,105.7,52,APPROVED,53.0
 381.0,False,True,True,RENT,0,1,False,False,EN,False,53.09,24,APPROVED,24.0
 578.0,False,False,False,OWN,0,3,False,False,EN,False,152.0,12,APPROVED,37.0
@@ -4461,7 +4461,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 613.0,False,True,False,RENT,6,0,True,False,EN,False,87.16,24,APPROVED,36.0
 148.0,False,True,True,RENT,0,4,False,False,EN,False,33.65,26,APPROVED,30.0
 134.0,False,True,False,RENT,0,1,False,False,EN,False,93.27,26,APPROVED,26.0
-706.0,False,True,False,OWN,0,6,True,False,EN,False,46.72,52,APPROVED,30.0
+706.0,False,True,False,OWN,0,6,True,False,EN,False,46.72,52,APPROVED,31.0
 434.0,False,True,False,RENT,0,2,True,False,EN,False,72.97,26,APPROVED,23.0
 499.0,False,True,False,RENT,0,1,True,False,EN,False,100.75,26,APPROVED,63.0
 443.0,False,True,True,OWN,11,3,True,False,EN,False,60.38,26,APPROVED,42.0
@@ -4585,7 +4585,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 1426.0,False,False,False,OWN,0,4,True,False,EN,False,189.3,26,APPROVED,28.0
 387.0,False,True,True,OWN,0,4,True,False,EN,False,37.67,52,APPROVED,28.0
 1500.0,False,True,True,RENT,0,3,False,False,EN,False,221.05,52,APPROVED,30.0
-968.0,False,True,False,RENT,0,6,True,False,EN,False,261.41,26,APPROVED,54.0
+968.0,False,True,False,RENT,0,6,True,False,EN,False,261.41,26,APPROVED,55.0
 692.0,False,False,False,RENT,4,2,True,False,EN,False,89.36,52,APPROVED,23.0
 591.0,False,True,False,RENT,0,2,True,False,EN,False,83.59,24,APPROVED,45.0
 578.0,False,True,True,OWN,0,6,True,False,EN,False,190.62,52,APPROVED,47.0
@@ -4668,12 +4668,12 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 292.0,False,True,True,RENT,1,7,True,False,EN,False,91.49,26,DENIED,52.0
 659.0,False,True,False,RENT,7,0,True,False,EN,False,50.27,52,APPROVED,26.0
 347.0,False,True,True,RENT,1,0,True,False,EN,False,57.13,26,APPROVED,22.0
-330.0,True,True,False,RENT,0,2,True,False,EN,False,90.07,12,APPROVED,29.0
+330.0,True,True,False,RENT,0,2,True,False,EN,False,90.07,12,APPROVED,30.0
 840.0,False,True,False,RENT,0,6,True,False,EN,False,113.19,26,APPROVED,28.0
 302.0,False,True,True,OWN,6,4,False,False,EN,False,334.9,26,APPROVED,31.0
 610.0,False,True,False,RENT,7,2,True,False,EN,False,93.08,26,APPROVED,27.0
 113.0,False,True,False,RENT,0,20,False,False,EN,False,52.15,26,APPROVED,32.0
-590.0,False,True,False,RENT,0,1,False,False,EN,False,38.77,52,APPROVED,47.0
+590.0,False,True,False,RENT,0,1,False,False,EN,False,38.77,52,APPROVED,48.0
 1163.0,False,True,True,OWN,0,6,True,False,EN,False,229.48,12,APPROVED,25.0
 473.0,False,True,True,RENT,0,2,False,False,ES,False,30.29,52,APPROVED,30.0
 618.0,False,True,False,RENT,1,2,False,False,EN,False,39.56,52,APPROVED,38.0
@@ -4722,7 +4722,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 501.0,False,True,True,RENT,1,0,True,False,EN,False,156.03,24,APPROVED,37.0
 419.0,False,True,False,OWN,0,6,True,False,EN,False,29.86,52,APPROVED,40.0
 1169.0,False,True,False,RENT,0,5,False,False,EN,False,115.93,26,APPROVED,43.0
-672.0,False,True,True,RENT,6,2,True,False,EN,False,92.57,24,APPROVED,29.0
+672.0,False,True,True,RENT,6,2,True,False,EN,False,92.57,24,APPROVED,30.0
 313.0,False,True,True,RENT,0,6,True,False,EN,False,95.36,52,APPROVED,56.0
 637.0,False,True,True,RENT,0,6,False,False,EN,False,99.78,26,APPROVED,23.0
 705.0,False,True,False,RENT,1,0,True,False,EN,False,93.08,26,APPROVED,28.0
@@ -4744,7 +4744,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 195.0,False,True,False,RENT,0,1,True,False,EN,False,58.28,12,APPROVED,62.0
 1942.0,False,True,False,RENT,0,1,True,False,EN,False,187.48,26,APPROVED,30.0
 724.0,False,True,True,RENT,3,0,True,False,EN,False,49.76,52,APPROVED,38.0
-498.0,False,True,True,RENT,2,0,True,False,EN,False,156.76,24,APPROVED,41.0
+498.0,False,True,True,RENT,2,0,True,False,EN,False,156.76,24,APPROVED,42.0
 935.0,False,True,False,OWN,11,6,True,False,EN,False,141.06,26,APPROVED,26.0
 642.0,False,True,True,OWN,0,11,True,False,EN,False,99.91,26,APPROVED,47.0
 334.0,False,True,True,OWN,0,6,True,False,EN,False,54.3,24,APPROVED,34.0
@@ -4803,7 +4803,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 274.0,False,True,True,RENT,9,6,True,False,EN,False,20.67,52,APPROVED,23.0
 269.0,False,True,True,OWN,0,6,True,False,EN,False,16.68,52,APPROVED,43.0
 243.0,False,True,False,RENT,1,6,True,False,EN,False,56.99,26,APPROVED,21.0
-1282.0,False,True,False,RENT,11,6,True,False,EN,False,189.05,26,APPROVED,40.0
+1282.0,False,True,False,RENT,11,6,True,False,EN,False,189.05,26,APPROVED,41.0
 872.0,False,True,True,RENT,0,6,True,False,EN,False,93.71,26,APPROVED,53.0
 396.0,False,True,False,OWN,0,1,True,False,EN,False,56.86,26,APPROVED_WITH_CONDITIONS,32.0
 1011.0,False,True,True,RENT,0,1,True,False,ES,False,120.3,52,APPROVED,38.0
@@ -4872,7 +4872,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 904.0,False,True,True,RENT,0,6,True,False,EN,False,129.57,26,APPROVED,59.0
 1120.0,False,True,False,OWN,0,6,False,False,EN,False,160.35,52,APPROVED,32.0
 504.0,False,True,True,RENT,6,1,False,False,EN,False,145.17,26,APPROVED,53.0
-853.0,False,True,True,RENT,0,1,True,False,EN,False,115.9,26,APPROVED,34.0
+853.0,False,True,True,RENT,0,1,True,False,EN,False,115.9,26,APPROVED,35.0
 462.0,False,False,False,OWN,0,6,True,False,EN,False,151.37,12,APPROVED,67.0
 442.0,False,False,False,RENT,0,6,True,False,EN,False,27.58,52,APPROVED,34.0
 591.0,False,True,True,RENT,1,1,True,False,ES,False,90.12,26,APPROVED,33.0
@@ -4886,7 +4886,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 1206.0,False,True,True,OWN,10,6,True,False,EN,False,155.36,26,APPROVED,33.0
 954.0,False,True,True,RENT,0,2,True,False,EN,False,139.89,26,APPROVED,45.0
 488.0,False,True,True,OWN,4,3,True,False,EN,False,130.59,24,APPROVED,42.0
-131.0,False,True,True,OWN,7,3,True,False,EN,False,130.26,24,APPROVED,37.0
+131.0,False,True,True,OWN,7,3,True,False,EN,False,130.26,24,APPROVED,38.0
 539.0,False,True,True,OWN,0,6,True,False,EN,False,76.06,26,APPROVED,29.0
 421.0,False,True,False,OWN,0,6,True,False,EN,False,34.3,52,APPROVED,51.0
 601.0,False,True,False,RENT,0,1,True,False,EN,False,166.82,26,APPROVED,58.0
@@ -4928,7 +4928,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 581.0,False,True,True,RENT,1,0,True,False,EN,False,207.71,52,APPROVED,46.0
 457.0,False,True,True,OWN,0,5,True,False,EN,False,182.77,26,APPROVED,43.0
 834.0,False,True,True,RENT,1,3,False,False,EN,False,496.17,12,APPROVED,27.0
-263.0,False,True,False,RENT,0,3,False,False,EN,False,42.11,26,APPROVED,49.0
+263.0,False,True,False,RENT,0,3,False,False,EN,False,42.11,26,APPROVED,50.0
 761.0,False,False,False,RENT,0,2,True,False,EN,False,93.52,26,APPROVED,54.0
 544.0,False,True,False,RENT,0,3,False,False,EN,False,97.41,12,APPROVED_WITH_CONDITIONS,37.0
 558.0,False,True,False,RENT,0,2,True,False,EN,False,84.62,26,APPROVED,32.0
@@ -4950,7 +4950,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 569.0,False,False,False,RENT,0,6,True,False,EN,False,44.18,52,APPROVED,26.0
 340.0,False,True,True,OWN,0,3,True,False,EN,False,72.71,26,APPROVED,42.0
 322.0,False,True,False,RENT,3,2,False,False,EN,False,54.94,52,APPROVED,30.0
-475.0,False,True,False,RENT,0,2,True,False,EN,False,35.54,52,APPROVED,30.0
+475.0,False,True,False,RENT,0,2,True,False,EN,False,35.54,52,APPROVED,31.0
 688.0,False,True,True,RENT,2,1,True,False,EN,False,92.4,26,APPROVED,52.0
 810.0,False,True,False,OWN,0,10,True,False,EN,False,124.38,24,APPROVED,63.0
 836.0,False,True,True,RENT,6,0,True,False,EN,False,107.37,26,APPROVED,51.0
@@ -5003,7 +5003,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 665.0,False,True,True,RENT,2,2,True,False,EN,False,220.0,12,APPROVED,42.0
 870.0,False,False,False,OWN,0,6,True,False,EN,False,139.62,26,APPROVED,30.0
 649.0,False,True,True,OWN,0,1,True,False,EN,False,201.49,52,APPROVED,44.0
-152.0,False,True,False,RENT,0,8,True,False,EN,False,70.22,26,APPROVED,42.0
+152.0,False,True,False,RENT,0,8,True,False,EN,False,70.22,26,APPROVED,43.0
 266.0,False,True,False,OWN,0,5,True,False,EN,False,33.77,26,APPROVED_WITH_CONDITIONS,25.0
 720.0,False,True,False,OWN,3,4,False,False,EN,False,164.96,52,APPROVED,44.0
 1517.0,False,False,True,RENT,1,1,True,False,ES,False,99.13,52,APPROVED,42.0
@@ -5071,7 +5071,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 641.0,False,True,True,RENT,0,1,True,False,EN,False,80.47,26,APPROVED,35.0
 1117.0,False,True,True,RENT,0,3,True,False,EN,False,175.84,52,APPROVED,36.0
 700.0,False,True,True,OWN,0,4,True,False,EN,False,91.39,26,APPROVED,20.0
-503.0,False,True,False,RENT,0,2,True,False,EN,False,50.01,52,APPROVED,19.0
+503.0,False,True,False,RENT,0,2,True,False,EN,False,50.01,52,APPROVED,20.0
 326.0,False,True,True,RENT,5,0,True,False,EN,False,51.38,26,APPROVED,50.0
 181.0,False,True,True,OWN,0,6,True,False,EN,False,48.01,52,APPROVED,23.0
 817.0,True,True,False,RENT,2,1,True,False,EN,False,226.38,24,APPROVED,33.0
@@ -5310,7 +5310,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 202.0,False,True,True,RENT,0,6,False,False,EN,False,37.53,24,APPROVED,45.0
 378.0,False,True,True,RENT,5,0,True,False,EN,False,44.3,26,APPROVED,28.0
 457.0,False,True,True,RENT,0,2,True,False,EN,False,135.91,26,APPROVED,48.0
-567.0,False,True,False,OWN,8,6,True,False,EN,False,78.69,26,APPROVED,39.0
+567.0,False,True,False,OWN,8,6,True,False,EN,False,78.69,26,APPROVED,40.0
 304.0,False,True,True,RENT,6,3,False,False,EN,False,37.05,26,APPROVED,36.0
 558.0,False,True,True,RENT,9,0,True,False,EN,False,38.63,52,DENIED,37.0
 623.0,False,True,False,RENT,0,5,True,False,EN,False,46.65,52,DENIED,34.0
@@ -5477,7 +5477,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 586.0,False,True,True,RENT,0,1,True,False,EN,False,73.84,26,APPROVED,36.0
 545.0,False,True,True,OWN,6,0,True,False,EN,False,100.84,24,APPROVED,22.0
 1619.0,False,True,True,OWN,1,2,False,False,EN,False,536.25,12,APPROVED,49.0
-540.0,False,False,True,OWN,0,6,True,False,EN,False,169.21,12,APPROVED,48.0
+540.0,False,False,True,OWN,0,6,True,False,EN,False,169.21,12,APPROVED,49.0
 631.0,False,True,True,OWN,0,6,True,False,EN,False,43.35,52,APPROVED,22.0
 309.0,False,False,False,OWN,0,2,False,False,ES,False,45.98,26,APPROVED,39.0
 463.0,False,True,True,OWN,0,6,True,False,EN,False,50.24,24,APPROVED,48.0
@@ -5672,12 +5672,12 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 596.0,False,True,True,OWN,11,15,True,False,EN,False,252.67,12,APPROVED,61.0
 503.0,False,False,False,OWN,8,5,True,False,EN,False,116.37,52,APPROVED,51.0
 521.0,False,True,True,OWN,0,2,True,False,EN,False,32.29,52,APPROVED,46.0
-708.0,False,True,False,RENT,0,1,True,False,EN,False,234.06,12,APPROVED,47.0
+708.0,False,True,False,RENT,0,1,True,False,EN,False,234.06,12,APPROVED,48.0
 823.0,False,True,False,OWN,0,6,True,False,EN,False,234.99,12,APPROVED,72.0
 695.0,False,True,True,RENT,8,0,True,False,EN,False,87.96,26,APPROVED,63.0
 219.0,False,True,True,RENT,0,1,True,False,EN,False,144.85,12,APPROVED,59.0
 342.0,False,True,False,RENT,10,0,True,False,EN,False,39.8,26,APPROVED,27.0
-369.0,False,True,True,RENT,8,0,False,False,EN,False,120.59,52,APPROVED,26.0
+369.0,False,True,True,RENT,8,0,False,False,EN,False,120.59,52,APPROVED,27.0
 367.0,False,True,False,OWN,11,6,True,False,EN,False,57.0,26,APPROVED,29.0
 524.0,False,True,True,RENT,3,5,True,False,ES,False,30.86,52,APPROVED,41.0
 175.0,False,True,True,OWN,0,6,True,False,EN,False,23.18,26,APPROVED,58.0
@@ -5697,7 +5697,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 997.0,False,True,True,RENT,0,2,True,False,EN,False,48.28,52,APPROVED,43.0
 492.0,False,True,False,RENT,0,15,True,False,EN,False,28.88,52,APPROVED,69.0
 932.0,False,True,False,OWN,0,5,True,False,ES,False,62.64,52,APPROVED,46.0
-236.0,False,True,False,RENT,1,0,False,False,EN,False,14.79,52,APPROVED,28.0
+236.0,False,True,False,RENT,1,0,False,False,EN,False,14.79,52,APPROVED,29.0
 548.0,False,True,False,RENT,0,3,True,False,EN,False,83.62,26,APPROVED,26.0
 849.0,False,True,True,OWN,0,6,True,False,EN,False,129.71,26,APPROVED,43.0
 657.0,False,True,False,RENT,0,1,False,False,ES,False,116.46,26,APPROVED,46.0
@@ -5894,7 +5894,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 433.0,False,True,True,RENT,0,3,False,False,EN,False,68.0,24,APPROVED,48.0
 296.0,False,False,False,RENT,0,3,True,False,EN,False,54.88,26,APPROVED,29.0
 781.0,False,True,True,RENT,3,2,False,False,EN,False,127.57,24,APPROVED,39.0
-242.0,False,True,True,OWN,0,3,True,False,EN,False,65.09,12,APPROVED,34.0
+242.0,False,True,True,OWN,0,3,True,False,EN,False,65.09,12,APPROVED,35.0
 605.0,False,True,True,RENT,3,5,True,False,EN,False,215.75,24,APPROVED,58.0
 200.0,False,True,False,RENT,11,6,True,False,EN,False,29.99,24,APPROVED,31.0
 257.0,False,True,False,RENT,5,1,True,False,EN,False,42.47,24,APPROVED,48.0
@@ -5908,7 +5908,7 @@ approval_amount,contacted,email_contacted_ts,sms_contacted_ts,rent_or_own,months
 1010.0,False,True,True,RENT,0,1,True,False,EN,False,154.86,26,APPROVED,34.0
 106.0,False,True,False,OWN,6,10,True,False,EN,False,30.92,52,APPROVED_WITH_CONDITIONS,41.0
 417.0,False,True,False,RENT,3,0,True,False,EN,False,112.84,26,APPROVED,22.0
-774.0,False,False,False,OWN,7,5,True,False,EN,False,118.16,26,APPROVED,29.0
+774.0,False,False,False,OWN,7,5,True,False,EN,False,118.16,26,APPROVED,30.0
 149.0,False,False,False,OWN,0,3,False,False,EN,False,32.34,12,APPROVED,46.0
 192.0,False,True,True,OWN,11,6,True,False,EN,False,12.52,52,APPROVED,38.0
 180.0,False,True,False,RENT,2,2,True,False,EN,False,61.69,12,APPROVED,65.0
